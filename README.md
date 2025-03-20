@@ -45,6 +45,23 @@ At thest time the best model is automatically loaded and evaluated on the test s
 python test.py --dataset="miniboone" --method="tnaf" --device="cuda:0"
 ```
 
+Citation
+-------
+
+```
+Patacchiola, M., Shysheya, A., Hofmann, K., & Turner, R. E. (2024). Transformer neural autoregressive flows. arXiv preprint arXiv:2401.01855.
+```
+
+**BibTeX**
+
+```
+@article{patacchiola2024transformer,
+  title={Transformer neural autoregressive flows},
+  author={Patacchiola, Massimiliano and Shysheya, Aliaksandra and Hofmann, Katja and Turner, Richard E},
+  journal={arXiv preprint arXiv:2401.01855},
+  year={2024}
+}
+```
 
 Related work
 ------------
