@@ -1,5 +1,5 @@
 # TNAF
-Official repository of the paper "Transformer Neural Autoregressive Flows", ICML 2024 (SPIG Workshop) [arXiv](https://arxiv.org/abs/2401.01855)
+Official repository of the paper "Transformer Neural Autoregressive Flows", ICML 2024 (SPIG Workshop) [[arXiv]](https://arxiv.org/abs/2401.01855)
 
 Installation
 ------------
